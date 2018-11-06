@@ -4,7 +4,6 @@
 Tiene la capacidad de generar grandes impresiones linea por linea.
 
 
-**Un Plotter no es nada mas que un brazo mecanico que traza lineas sobre una superficie.** 
 
 ---
 
