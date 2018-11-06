@@ -35,11 +35,7 @@ Se utilizan para crear carteles, camisetas, decoración de paredes o cristales, 
 
 ![][imagen_2]
 
-* __Plotters opticos o photoplotter:__ es un plóter de nueva generación que se utiliza para la realización de fotolitos para circuitos impresos, realiza la misma tarea de interpretación y filmación de fotolitos que un plóter tradicional, pero con mayor resolución.
-
-Un fotoplóter tiene resoluciones que van desde los **400 dpi a los 4000 dpi** según modelos.
-
-los plóteres tradicionales necesitan negativos intermedios y generan más residuos tóxicos, los plóteres ópticos solo producen un único residuo: **un poliéster reciclable.** Esto es debido a que utilizan un proceso en seco sin tinta, sin tóner y sin ningún otro producto químico, por lo que el proceso es limpio y rápido.
+* __Plotters opticos o photoplotter:__ es un plóter de nueva generación que se utiliza para la realización de fotolitos para circuitos impresos, realiza la misma tarea de interpretación y filmación de fotolitos que un plóter tradicional, pero con mayor resolución. Un fotoplóter tiene resoluciones que van desde los **400 dpi a los 4000 dpi** según modelos. Los plóteres tradicionales necesitan negativos intermedios y generan más residuos tóxicos, los plóteres ópticos solo producen un único residuo: **un poliéster reciclable.** Esto es debido a que utilizan un proceso en seco sin tinta, sin tóner y sin ningún otro producto químico, por lo que el proceso es limpio y rápido.
 Pueden ocupar más espacio que un plóter tradicional al necesitar un espacio sellado a la luz o cuarto oscuro
 
 
